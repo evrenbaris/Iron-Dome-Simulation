@@ -16,5 +16,5 @@ This project simulates a simplified Iron Dome defense system using Python. The s
 - Python 3.x
 - numpy
 - matplotlib
-- IPython (for animations in Jupyter or Google Colab)
+- IPython (for animations in Jupyter or Google Colab).
 
