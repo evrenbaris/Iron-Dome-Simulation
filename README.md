@@ -18,8 +18,3 @@ This project simulates a simplified Iron Dome defense system using Python. The s
 - matplotlib
 - IPython (for animations in Jupyter or Google Colab)
 
-## How to Run
-### Option 1: Python Script
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/iron-dome-simulation.git
